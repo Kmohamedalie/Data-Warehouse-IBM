@@ -2,7 +2,7 @@
 
 ### **Module 1 :  Data Warehouses, Data Marts, and Data Lakes**
 
-Welcome to your first module! This module provides an introduction to data warehouse systems, data lakes, and data marts. When you complete this module, you’ll be able to identify and compare data warehouse systems, data marts, and data lakes based on their architecture, and understand how organizations can benefit from each of these three data storage entities. Then, you’ll learn about three types of data warehouse systems and popular data warehouse system vendors. You will learn to help your organization assess new data warehouse system offerings when you know the five essential, critical criteria, including the total cost of ownership, to evaluate before changing to a new data warehouse system.
+This module provides an introduction to data warehouse systems, data lakes, and data marts. When you complete this module, you’ll be able to identify and compare data warehouse systems, data marts, and data lakes based on their architecture, and understand how organizations can benefit from each of these three data storage entities. Then, you’ll learn about three types of data warehouse systems and popular data warehouse system vendors. You will learn to help your organization assess new data warehouse system offerings when you know the five essential, critical criteria, including the total cost of ownership, to evaluate before changing to a new data warehouse system.
 
 
 ### **Module 2 : Designing, Modeling, and Implementing Data Warehouses**
