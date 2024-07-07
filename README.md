@@ -1,4 +1,4 @@
-# [Data Warehouse Foundamental IBM](https://www.coursera.org/learn/data-warehouse-fundamentals/home/welcome)
+# [Data Warehouse Fundamental IBM](https://www.coursera.org/learn/data-warehouse-fundamentals/home/welcome)
 
 ### **Module 1 :  Data Warehouses, Data Marts, and Data Lakes**
 
